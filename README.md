@@ -1,4 +1,4 @@
-<h1 align="center">@devmarissa</h1>
+<h1 align="center">Hi 👋, I'm Marissa</h1>
 <h3 align="center">Roblox Game Developer</h3>
 
 - 🔭 I’m currently working on *digital nightlife* at [**Smokestack Games**](https://smokestackgames.com)
