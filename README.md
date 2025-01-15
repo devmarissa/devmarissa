@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Windsurf**
 
-- 👯 I’m looking to collaborate on **Roblox projects**
-
 - 👨‍💻 All of my projects are available at [**marissa.cc**](https://marissa.cc)
 
-- 💬 Ask me about **Luau**
+- 💬 Ask me about **fully managed Roblox development**
