@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on *digital nightlife* at [**Smokestack Games**](https://smokestackgames.com)
 
-- 🌱 I’m currently learning *Windsurf**
+- 🌱 I’m currently learning *Windsurf*
 
 - 👨‍💻 All of my projects are available at [**marissa.cc**](https://marissa.cc)
 
