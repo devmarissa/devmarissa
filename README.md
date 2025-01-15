@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marissa</h1>
-<h3 align="center">A Roblox game designer and developer</h3>
+<h3 align="center">A Roblox game developer</h3>
 
 - 🔭 I’m currently working on [**digital nightlife**]
 
