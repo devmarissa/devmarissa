@@ -1,10 +1,10 @@
 <h1 align="center">@devmarissa</h1>
 <h3 align="center">Roblox Game Developer</h3>
 
-- 🔭 I’m currently working on ***digital nightlife*** @[**Smokestack Games**](https://smokestackgames.com)
+- 🔭 I’m currently working on *digital nightlife* at [**Smokestack Games**](https://smokestackgames.com)
 
-- 🌱 I’m currently learning ***Windsurf***
+- 🌱 I’m currently learning *Windsurf**
 
 - 👨‍💻 All of my projects are available at [**marissa.cc**](https://marissa.cc)
 
-- 💬 Ask me about ***fully managed Roblox development***
+- 💬 Ask me about *fully managed Roblox development*
