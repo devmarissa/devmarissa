@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marissa</h1>
 <h3 align="center">Roblox Game Developer</h3>
 
-- 🔭 I’m currently working on *meta-ROMs* at [**Smokestack Games**](https://smokestackgames.com)
+- 🔭 I’m currently working on *concert tooling* at [**Audioscape**](https://audioscape.ai)
 
-- 🌱 I’m currently learning *Windsurf*
+- 🌱 I’m currently learning *Claude Code*
 
 - 👨‍💻 All of my projects are available at [**marissa.cc**](https://marissa.cc)
 
